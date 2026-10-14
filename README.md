@@ -1,6 +1,7 @@
 # Hi, I'm Muhammad Faizan Rauf 👋
 
-**Solution Architect | AI/ML & Cloud Systems Engineer**  
+**Solution Architect | AI/ML & Cloud Systems Engineer**
+
 Lahore, Pakistan · 6+ years of software engineering experience
 
 [Portfolio](https://resume-m-faizan-rauf.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/m-faizan-rauf) · [Résumé](https://resume-m-faizan-rauf.vercel.app/Muhammad_Faizan_Rauf_Solution_Architect_CV.pdf) · [Email](mailto:faizanrauf6@gmail.com)
