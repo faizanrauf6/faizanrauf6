@@ -1,18 +1,18 @@
 # Hi, I'm Muhammad Faizan Rauf 👋
 
-**Solution Architect | AI/ML & Cloud Systems Engineer**
+**Senior Software and AI/ML Engineer | Solution Architecture | Cloud Systems**
 
-Lahore, Pakistan · 6+ years of software engineering experience
+Lahore, Pakistan · 7+ years of software engineering experience
 
-[Portfolio](https://resume-m-faizan-rauf.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/m-faizan-rauf) · [Résumé](https://resume-m-faizan-rauf.vercel.app/Muhammad_Faizan_Rauf_Solution_Architect_CV.pdf) · [Email](mailto:faizanrauf6@gmail.com)
+[Portfolio](https://resume-m-faizan-rauf.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/m-faizan-rauf) · [Résumé](https://resume-m-faizan-rauf.vercel.app/M_Faizan_Rauf_SSE_AI_ML_Cloud_Engineer_CV.pdf) · [Email](mailto:faizanrauf6@gmail.com)
 
 ## About
 
-I design distributed systems, intelligent automation pipelines, and cloud infrastructure across FinTech, healthcare, e-commerce, and IoT. My work connects business requirements with practical technical architecture, from API contracts and data flows to deployment, observability, and reliability.
+I’m a Senior Software and AI/ML Engineer designing distributed systems, AI-powered automation, and cloud infrastructure across FinTech, healthcare, e-commerce, and IoT. My work connects business requirements with practical technical architecture, from API contracts and data flows to deployment, observability, and reliability.
 
-At **PureLogics**, I work as a **Solution Architect & AI/ML Engineer**, building applications with Next.js, NestJS, TypeScript, and Python. My AI work includes enterprise retrieval-augmented generation (RAG), Anthropic API integrations, Model Context Protocol (MCP), and multi-agent workflows. I also support delivery through AWS, Docker, and CI/CD, and mentor engineers through technical guidance and code reviews.
+At **PureLogics**, I work as a **Senior Software and AI/ML Engineer**, building applications with Next.js, NestJS, TypeScript, and Python. My AI work includes enterprise retrieval-augmented generation (RAG), Anthropic API integrations, Model Context Protocol (MCP), and multi-agent workflows. I also support delivery through AWS, Docker, and CI/CD, and mentor engineers through technical guidance and code reviews.
 
-My project experience includes **HelloCustom's** marketplace personalization and fulfillment integrations, **NurseBrain's** read-only FHIR access to Epic and Cerner, **SpeakShift's** real-time transcription and translation, and **Save Energy Systems'** cloud-to-device HVAC communication. Previously, I led full-stack and DevOps work at **Mahir Company** and built data automation workflows at **NielsenIQ**.
+My project experience includes **HelloCustom's** multi-tenant integrations across five partner APIs plus Shopify, **NurseBrain's** read-only FHIR access to Epic and Cerner, **WebShield AI's** explainable phishing analysis, **SpeakShift's** real-time transcription and translation, and **Save Energy Systems'** cloud-to-device HVAC communication. Previously, I led full-stack and DevOps work at **Mahir Company** and built data automation workflows at **NielsenIQ**.
 
 I enjoy turning complex integration problems into maintainable systems and sharing what I learn through practical tools and technical articles.
 
@@ -20,7 +20,7 @@ I enjoy turning complex integration problems into maintainable systems and shari
 
 ### Solution Architecture
 
-![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-334155?style=flat) ![Microservices](https://img.shields.io/badge/Microservices-334155?style=flat) ![Event-Driven Architecture](https://img.shields.io/badge/Event--Driven_Architecture-334155?style=flat) ![API-First Design](https://img.shields.io/badge/API--First_Design-334155?style=flat) ![REST APIs](https://img.shields.io/badge/REST_APIs-334155?style=flat) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![Observability](https://img.shields.io/badge/Observability-334155?style=flat)
+![System Design](https://img.shields.io/badge/System_Design-334155?style=flat) ![Multi-Tenant Architecture](https://img.shields.io/badge/Multi--Tenant_Architecture-334155?style=flat) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-334155?style=flat) ![Microservices](https://img.shields.io/badge/Microservices-334155?style=flat) ![Event-Driven Architecture](https://img.shields.io/badge/Event--Driven_Architecture-334155?style=flat) ![API-First Design](https://img.shields.io/badge/API--First_Design-334155?style=flat) ![REST APIs](https://img.shields.io/badge/REST_APIs-334155?style=flat) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![Observability](https://img.shields.io/badge/Observability-334155?style=flat)
 
 ### Frontend & Frameworks
 
@@ -28,11 +28,11 @@ I enjoy turning complex integration problems into maintainable systems and shari
 
 ### Backend & APIs
 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-404D59?style=flat&logo=express&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-404D59?style=flat&logo=express&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat) ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 
 ### AI/ML & Data
 
-![Anthropic API](https://img.shields.io/badge/Anthropic_API-191919?style=flat&logo=anthropic&logoColor=white) ![RAG](https://img.shields.io/badge/Enterprise_RAG-6D28D9?style=flat) ![MCP](https://img.shields.io/badge/Model_Context_Protocol-6D28D9?style=flat) ![AI Agents](https://img.shields.io/badge/Multi--Agent_Systems-6D28D9?style=flat) ![Vector Databases](https://img.shields.io/badge/Vector_Databases-6D28D9?style=flat) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-6D28D9?style=flat) ![LLMs](https://img.shields.io/badge/Large_Language_Models-6D28D9?style=flat) ![AI Agents](https://img.shields.io/badge/AI_Agents-6D28D9?style=flat) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-6D28D9?style=flat) ![Anthropic API](https://img.shields.io/badge/Anthropic_API-191919?style=flat&logo=anthropic&logoColor=white) ![RAG](https://img.shields.io/badge/Enterprise_RAG-6D28D9?style=flat) ![MCP](https://img.shields.io/badge/Model_Context_Protocol-6D28D9?style=flat) ![AI Agents](https://img.shields.io/badge/Multi--Agent_Systems-6D28D9?style=flat) ![Vector Databases](https://img.shields.io/badge/Vector_Databases-6D28D9?style=flat) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 ### Cloud & DevOps
 
@@ -42,6 +42,10 @@ I enjoy turning complex integration problems into maintainable systems and shari
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=flat) ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white)
 
+### Integrations & Protocols
+
+![FHIR](https://img.shields.io/badge/FHIR_(Epic,_Cerner)-334155?style=flat) ![Marketplace APIs](https://img.shields.io/badge/Marketplace_APIs-334155?style=flat) ![Modbus](https://img.shields.io/badge/Modbus-334155?style=flat) ![JWT](https://img.shields.io/badge/JWT_Authentication-334155?style=flat)
+
 ## Development Tools
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white)
@@ -50,7 +54,7 @@ I enjoy turning complex integration problems into maintainable systems and shari
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [WebShield AI](https://github.com/faizanrauf6/webshield-ai-fraud-detection) | Explainable website-risk analysis with an offline-evaluated phishing model, persistent scans, and threat reports. | Next.js, NestJS, Python, PostgreSQL, Redis |
+| [WebShield AI](https://github.com/faizanrauf6/webshield-ai-fraud-detection) | Explainable website-risk analysis with a Python ML engine, documented offline temporal evaluation on 36,910 URLs, persistent scans, and threat reports. | Next.js, NestJS, Python, PostgreSQL, Redis |
 | [LinkedIn Job Agent](https://github.com/faizanrauf6/linkedin-job-agent) | Local job discovery, CV matching, reviewed applications, and persistent application tracking. | Python, browser automation |
 | [Node.js API Starter](https://github.com/faizanrauf6/nodejs-boilerplate) | A backend starter with structured routes, controllers, services, validation, and Swagger documentation. | Node.js, Express, JavaScript |
 | [EncryptNShare](https://github.com/faizanrauf6/encryptnshare) | Browser-encrypted environment-variable sharing with expiring links and read limits. | TypeScript, AES-GCM |
@@ -64,6 +68,11 @@ More professional projects and case studies are on my [portfolio](https://resume
 - [From Requirements to Solution Architecture](https://resume-m-faizan-rauf.vercel.app/blog/from-requirements-to-solution-architecture)
 - [Designing Reliable Event-Driven Integrations](https://resume-m-faizan-rauf.vercel.app/blog/designing-reliable-event-driven-integrations)
 - [Building Observable, Resilient AWS Systems](https://resume-m-faizan-rauf.vercel.app/blog/building-observable-resilient-aws-systems)
+
+## Professional Development
+
+- **AWS Certified Cloud Practitioner (CLF-C02):** exam in progress.
+- **Anthropic courses:** Claude Platform 101, Claude Code 101, and Claude 101.
 
 ## Let's Connect
 
