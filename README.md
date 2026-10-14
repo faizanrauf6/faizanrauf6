@@ -65,14 +65,6 @@ More professional projects and case studies are on my [portfolio](https://resume
 - [Designing Reliable Event-Driven Integrations](https://resume-m-faizan-rauf.vercel.app/blog/designing-reliable-event-driven-integrations)
 - [Building Observable, Resilient AWS Systems](https://resume-m-faizan-rauf.vercel.app/blog/building-observable-resilient-aws-systems)
 
-## GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/faizanrauf6?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=faizanrauf6&show_icons=true&hide_border=true&theme=default&disable_animations=true" alt="Muhammad Faizan Rauf's public GitHub statistics" />
-  </a>
-</p>
-
 ## Let's Connect
 
 Interested in solution architecture, AI-powered products, or cloud systems? Reach me on [LinkedIn](https://www.linkedin.com/in/m-faizan-rauf) or at [faizanrauf6@gmail.com](mailto:faizanrauf6@gmail.com).
