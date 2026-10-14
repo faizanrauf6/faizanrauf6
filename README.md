@@ -69,7 +69,7 @@ More professional projects and case studies are on my [portfolio](https://resume
 
 <p align="center">
   <a href="https://github.com/faizanrauf6?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=faizanrauf6&show_icons=true&hide_border=true&theme=default" alt="Muhammad Faizan Rauf's public GitHub statistics" />
+    <img src="https://github-readme-stats.vercel.app/api?username=faizanrauf6&show_icons=true&hide_border=true&theme=default&disable_animations=true" alt="Muhammad Faizan Rauf's public GitHub statistics" />
   </a>
 </p>
 
